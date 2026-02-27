@@ -130,21 +130,6 @@ Ask questions about the research paper
 
 Get AI-generated answers
 
-# Environment Setup
-1. Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-2. Install dependencies
-pip install -r requirements.txt
-3. Set environment variables
-export WATSONX_APIKEY="your_api_key"
-export WATSONX_PROJECT_ID="your_project_id"
-
-(Windows users should use set instead of export)
-
-4. Run the app
-python app.py
-
 # Security Notice
 
 In your current script, replace:
